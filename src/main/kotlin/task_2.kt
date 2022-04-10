@@ -65,7 +65,6 @@ fun calculateCommission(
         }
         else -> 0.0
     }
-    return -1.0
 }
 
 enum class CardTypes {
